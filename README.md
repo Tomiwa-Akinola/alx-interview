@@ -1,1 +1,1 @@
-This project contains alx interview tasks
+This repo contains alx interview tasks
